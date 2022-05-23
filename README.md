@@ -1,5 +1,5 @@
-# hello-world
-My first repository
+# Hello World
+My first branch repository for changes
 
 Author: Carlos C.
 Date: 23/05/2022
